@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Projects\SeaFight\SeaFight\main.cpp(132,21): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\SeaFight\SeaFight\main.cpp(141,21): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\SeaFight\SeaFight\main.cpp(213,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Projects\SeaFight\SeaFight\main.cpp(253,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SeaFight.vcxproj -> C:\Projects\SeaFight\Debug\SeaFight.exe
