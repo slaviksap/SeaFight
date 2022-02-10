@@ -1,6 +1,9 @@
 ﻿  main.cpp
-C:\Projects\SeaFight\SeaFight\main.cpp(132,21): warning C4018: '<': signed/unsigned mismatch
-C:\Projects\SeaFight\SeaFight\main.cpp(141,21): warning C4018: '<': signed/unsigned mismatch
-C:\Projects\SeaFight\SeaFight\main.cpp(213,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Projects\SeaFight\SeaFight\main.cpp(253,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Projects\SeaFight\SeaFight\main.cpp(420,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Projects\SeaFight\SeaFight\main.cpp(429,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Projects\SeaFight\SeaFight\main.cpp(506,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Projects\SeaFight\SeaFight\main.cpp(556,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Projects\SeaFight\SeaFight\main.cpp(584,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Projects\SeaFight\SeaFight\main.cpp(629,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Projects\SeaFight\SeaFight\main.cpp(153): warning C4715: SeaFight::Ship::geometryCheck: значение возвращается не при всех путях выполнения
   SeaFight.vcxproj -> C:\Projects\SeaFight\Debug\SeaFight.exe
